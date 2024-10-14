@@ -1,0 +1,690 @@
+@media (max-width: 1700px){
+    .container{
+        width: 1300px;
+    }
+}
+@media (max-width: 1600px){
+    .container{
+        width: 1200px;
+    }
+}
+@media (max-width: 1500px){
+    .container{
+        width: 1100px;
+    }
+}
+@media (max-width: 1400px){
+    .container{
+        width: 1000px;
+    }
+    #base-story .base-story .base-story-item div svg{
+        margin: 0;
+        font-size: 24px;
+    }
+    #base-story .base-story .base-story-item div h4{
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 1300px){
+    #info .info-item .info-item-desc p{
+        font-size: 10px;
+        line-height: 20px;
+    }
+}
+@media (max-width: 1050px){
+    .container{
+        width: 900px;
+    }
+    #slider .slid-desk h1{
+        font-size: 65px;
+    }
+    header{
+        height: 8vh;
+    }
+    header nav{
+        height: 8vh;
+    }
+    header .brandlogo img{
+        margin: -60px -180px;
+    }
+    #base-story{
+        padding: 45px;
+    }
+    #base-story .base-video{
+        width: 40%;
+    }
+    #base-story .base-video::after {
+        height: 130px;
+    }
+    #base-story .base-story{
+        width: 60%;
+    }
+    #base-story .base-story .base-story-item div{
+        height: 100px;
+        line-height: 20px;
+    }
+    #services{
+        height: 81vh;
+    }
+    #services .tab-button ul li{
+        font-size: 15px;
+    }
+    #services .tab-content .tab .content .content-titel p{
+        font-size: 17px;
+    }
+    #services .tab-content .tab .content .content-img img{
+        height: 250px;
+    }
+    #about{
+        padding: 60px 0;
+    }
+    #about .section-titel p{
+        font-size: 15px;
+    }
+    #about .about-team .about-team-item img {
+        height: 200px;
+    }
+    #footer .footer-about .footer-about-cotact .footer-social ul li a svg{
+        margin-left: 10px;
+    }
+    #header-top .header-top-social ul li{
+        margin-left: 10px;
+    }
+}
+
+@media (max-width: 992px){
+    .container{
+        width: 750px;
+    }
+    #info{
+        padding: 5px 0;
+    }
+    #info .info-item{
+        width: 200px;
+        margin: 0 20px;
+    }
+    #info .info-item svg{
+        font-size: 25px;
+    }
+    header ul li a {
+        font-size: 15px;
+        margin-left: 10px;
+    }
+    header .brandlogo img{
+    width: 200px;
+    margin: -60px -90px;
+    }
+    #slider{
+        height: 700px;
+    }
+    #slider .slid-desk h1{
+        font-size: 50px;
+    }
+    #slider .slid-desk .typed{
+        font-size: 30px;
+    }
+    #products ul {
+        height: 50vh;
+    }
+    #products ul li h1 {
+        font-size: 27px;
+    }
+    #services{
+        height: 60vh;
+    }
+    #services .overlay{
+        padding: 5px 0;
+    }
+    #services .tab-button ul li {
+        font-size: 13px;
+    }
+    #services .tab-content .tab .content .content-titel h3{
+        font-size: 16px;
+    }
+    #services .tab-content .tab .content .content-titel p {
+        font-size: 13px;
+    }
+    #services .tab-content .tab .content .content-img img {
+        height: 138px;
+    }
+    #about .section-titel{
+        padding: 0;
+    }
+    #projects .section-titel h3 {
+        font-size: 17px;
+    }
+    #about .section-titel p{
+        max-height: 50px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp:3;
+    }
+    #article {
+        width: 100%;
+        height: 50vh;
+    }
+    #article .post img {
+        height: 245px;
+    }
+}
+@media (max-width: 885px){
+    .container{
+        width: 670px;
+    }
+}
+@media (max-width: 840px){
+    .container{
+        width: 650px;
+    }
+}
+@media (max-width: 824px){
+    .container{
+        width: 630px;
+    }
+    #services {
+        height: 40vh;
+    }
+    #products ul {
+        height: 40vh;
+    }
+    #products ul li h1 {
+        font-size: 17px;
+    }
+    #products ul li img {
+        width: 43%;
+        height: 140px;
+    }
+    #article {
+        height: 40vh;
+    }
+}
+@media (max-width: 812px){
+    .container{
+        width: 610px;
+    }
+    #base-story .base-story .base-story-item div{
+        width: 80px;
+        margin-left: -80px;
+    }
+    #base-story .base-video::before{
+        width: 150px;
+        height: 5px;
+    }
+    #base-story .base-video::after{
+        width: 5px;
+    }
+    #base-story .base-story .base-story-item div a{
+        padding: 0 3px;
+    }
+    #services .tab-button ul li{
+        padding: 0 2px;
+    }
+    #services .tab-button ul li svg{
+        margin: auto;
+    }
+    #services .tab-content .tab .content .content-titel h3{
+        font-weight: normal;
+    }
+    #about .about-team .about-team-item .about-slide h6{
+        font-size: 11px;
+        font-weight: normal;
+        line-height: 2;
+    }
+    #beauti-Text .beauti-text h1{
+        font-size: 24px;
+    }
+    #projects{
+        padding: 30px 0;
+    }
+    #article .post .date h2 {
+        font-size: 12px;
+        font-weight: normal;
+    }
+    #article .post img{
+        height: 185px;
+    }
+    #article .post .post-desc h2{
+        font-weight: normal;
+        font-size: 20px;
+    }
+    #article .post .post-desc p{
+        max-height: 50px;
+        overflow: hidden;
+    }
+    #article .article-post{
+        margin-top: -162px;
+    }
+    #footer .footer-about .footer-about-titel p {
+        line-height: 25px;
+        padding-left: 20px;
+        max-width: 285px;
+    }
+}
+@media (max-width: 800px){
+    .container{
+        overflow: hidden;
+    }
+    #header-top .messag p{
+        white-space: nowrap;
+    }
+    #header-top .header-top-social{
+        width: 60%;
+        padding-right: 60px;
+    }
+    #header-top .header-top-social ul li{
+        margin-left: 20px;
+    }
+    #info{
+        padding: 5px 0;
+    }
+    #info .info-item{
+        width: 190px;
+        margin: 0;
+    }
+    #info .info-item .info-item-desc p{
+        font-size: 12px;
+    }
+
+    header ul {
+        width: 70%;
+    }
+    header .brandlogo img{
+    width: 150px;
+    margin: -60px px;
+    }
+    #slider{
+        height: 700px;
+    }
+    #slider .slid-desk h1{
+        font-size: 40px;
+    }
+    #slider .slid-desk .typed{
+        font-size: 23px;
+    }
+    #base-story {
+        width: 100%;
+        padding: 80px 5px;
+    }
+    #base-story .container{
+        margin: 0 50px;
+        padding: 0 10px;
+        overflow: revert-layer;
+    }
+    #base-story .base-video video{
+        height: 160px;
+    }
+    #base-story .base-story .story-titel h3{
+        font-size: 19px;
+        line-height: 29px;
+    }
+    #base-story .base-story .story-titel p{
+        font-size: 18px;
+        line-height: 30px;
+    }
+    #base-story .base-story .base-story-item{
+        margin: 30px 0;
+        
+    }
+    #services .overlay .container{
+        margin: 30px;
+        width: auto;
+      }
+
+    #about .container{
+        margin: 30px;
+        width: auto;
+      }
+    #projects .container{
+        margin: 30px;
+        width: auto;
+      }
+    #article .article-overlay .container{
+        margin: 70px 30px;
+        width: auto;
+        overflow: initial;
+      }
+    #footer .container{
+        margin: 30px;
+        width: auto
+      }
+}
+
+@media (max-width: 756px){
+    #header-top .header-top-social {
+        width: 30%;
+    }
+    #info .info-item .info-item-desc p {
+        line-height: 26px;
+    }
+    #base-story .base-story .base-story-item {
+        margin: 15px 0;
+        width: 280px;
+    }
+    #base-story .base-story .base-story-item div {
+        width: 69px;
+        margin-left: -46px;
+    }
+    #base-story .base-story .base-story-item div svg {
+        margin: 0;
+        font-size: 16px;
+    }
+    #base-story .base-story .base-story-item div h4 {
+        font-size: 10px;
+        font-weight: unset;
+    }
+
+}
+@media (max-width: 643px){
+    .container{
+        width:478px;
+    }
+    #slider, #slider .slid-desk {
+        height: 500px;
+    }
+    #slider .slid-desk h1 {
+        font-size: 29px;
+    }
+    #slider .slid-desk .typed {
+        font-size: 20px;
+    }
+    #base-story{
+        padding: 40px 5px;
+    }
+    #base-story .row {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    #base-story .base-video {
+        width: 50%;
+        margin-bottom: 20px;
+        height: 100px;
+    }
+    #base-story .base-video video {
+        height: 100px;
+    }
+    #base-story .base-video::before{
+        top: -15px;
+        right: -15px;
+    }
+    #base-story .base-video::after{
+        top: -12px;
+        right: -15px;
+        height: 100px;
+    }
+    #base-story .base-story {
+        width: 100%;
+    }
+    #services {
+        height: 45vh;
+    }
+    #services .overlay .container{
+        margin: 15px;
+    }
+    #services .tab-button ul li {
+        line-height: 26px;
+    }
+    #services .section-titel {
+        padding: 10px 0;
+    }
+    #services .tab-content .tab .content .content-titel p{
+        line-height: 24px;
+    }
+    #products ul {
+        height: 60vh;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    #about {
+        padding: 10px 0;
+    }
+    #about .container {
+        margin: 15px;
+        width: auto;
+    }
+    #about .about-team .about-team-item img {
+        height: 117px;
+    }
+    #about .about-team .about-team-item .about-slide h4 {
+        margin: 9px 0;
+    }
+    #about .about-team .about-team-item .about-slide h4 {
+        margin: 9px 0;
+        font-size: 12px;
+        font-weight: normal;
+    }
+    #about .about-team .about-team-item .about-slide ul li svg {
+        font-size: 15px;
+        color: aliceblue;
+        margin-bottom: 9px;
+    }
+    #about .about-team .about-team-item .about-slide{
+        transition: all .8s ease-in-out;
+        -webkit-transition: all .8s ease-in-out;
+        -moz-transition: all .8s ease-in-out;
+        -ms-transition: all .8s ease-in-out;
+        -o-transition: all .8s ease-in-out;
+    }
+    #beauti-Text{
+        padding: 40px 0;
+    }
+    #beauti-Text .beauti-text h1 {
+        font-size: 21px;
+    }
+    #projects {
+        padding: 19px 0;
+        height: 635px;
+    }
+    #projects .container {
+        margin: 15px;
+    }
+    .section-titel {
+        padding: 10px 0;
+    }
+    #article {
+        height: 40vh;
+        padding: 10px 0;
+    }
+    #article .article-overlay .container {
+        margin: 78px 13px;
+      }
+    #article .section-titel button {
+        width: 141px;
+    }
+
+    #article .post img {
+        height: 130px;
+    }
+    #article .post .date {
+        top: -16px;
+        height: 50px;
+    }
+    #article .post .date h2 {
+        line-height: 26px;
+    }
+    #article .section-titel h3{
+        padding: 5px 10px;
+    }
+    #footer .footer-about .footer-about-cotact .footer-social ul li a svg {
+        margin-left: 10px;
+        font-size: 17px;
+    }
+    #footer .footer-content div {
+        width: 35%;
+    }
+    #footer .footer-content .footer-quick-access-content ul li {
+        width: 60%;
+        margin-right: 30px;
+    }
+    #footer .footer-content div {
+        width: 54%;
+    }
+    #footer .copy-right p {
+        font-size: 13px;
+        line-height: 2;
+      }
+}
+@media (max-width: 512px){
+    .container {
+        margin: 0 5px;
+        width: 375px;
+      }
+    .row {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        flex-wrap: wrap;
+    }
+    #header-top{
+        height: 8vh;
+    }
+    #header-top .messag {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    #header-top .header-top-social {
+        width: 70%;
+    }
+    #info .info-item {
+        width: revert-layer;
+        margin: 2px;
+    }
+    #info .info-item svg {
+        font-size: 16px;
+        margin-right: 15px;
+    }
+    #slider, #slider .slid-desk {
+        height: 400px;
+    }
+    #slider .slid-desk h1 {
+        font-size: 26px;
+    }
+    header ul {
+        width: 100%;
+    }
+    header .brandlogo {
+        display: none;
+    }
+    #base-story {
+        padding: 10px 5px;
+    }
+    #base-story .container {
+        margin: 0 5px;
+        padding: 0 0px;
+    }
+    #base-story .base-video::before {
+        top: -6px;
+        right: -3px;
+        height: 3px;
+    }
+    #base-story .base-video::after{
+    top: -6px;
+    right: -6px;
+    height: 80px;
+    width: 3px;
+    }
+    #services .overlay .container {
+        margin: 5px;
+      }
+    #services .tab-button{
+        height: 55px;
+    }
+    #services .tab-button ul li {
+        line-height: 18px;
+        font-size: 11px;
+    }
+    #about .container {
+        margin: 5px;
+    }
+    #about .section-titel {
+        width: 70%;
+    }
+    #beauti-Text .beauti-text{
+        align-items: flex-start;
+    }
+    #beauti-Text .beauti-text h1 {
+        font-size: 18px;
+        font-weight: normal;
+    }
+    #article .article-overlay .container {
+        margin: 80px 13px;
+    }
+    #article .section-titel h3 {
+        padding: 5px 10px;
+        margin-top: -130px;
+    }
+    #article .section-titel button {
+        width: 141px;
+        position: absolute;
+        top: 0px;
+        left: 30px;
+    }
+    #article .post .date h2 {
+        font-size: 10px;
+    }
+    #article .post .post-desc h2 {
+        font-size: 14px;
+    }
+    #article .post .post-desc p{
+        font-size: 12px;
+    }
+    #partners{
+        padding: 10px;
+    }
+    #partners h1{
+        font-size:20px;
+    }
+    #partners ul{
+        margin-top: 20px;
+    }
+    #partners ul li a img {
+        width: 86px;
+    }
+    #footer .container {
+        margin: 5px;
+    }
+    #footer .footer-about .footer-about-titel p{
+        max-width: 197px;
+    max-height: 127px;
+    overflow: hidden;
+    }
+    #footer .footer-about .footer-about-cotact {
+        width: 53%;
+    }
+    #footer .footer-content{
+        flex-direction: column;
+    }
+    #footer .footer-content div {
+        width: 100%;
+    }
+  }
+  @media (max-width: 320px){
+    #info .slid-desk .typed {
+        font-size: 12px;
+    }
+    #projects .projects-box .projects-box-item p {
+        color: #fff;
+        max-width: 189px !important;
+        line-height: 25px !important;
+        font-size: 13px !important;
+    }
+    #base-story .base-story .base-story-item {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        align-items: center;
+        padding: 20px;
+    }
+    #base-story .base-story .base-story-item div {
+        width: 69px;
+        margin-left: -46px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+        align-items: center;
+        padding: 20px;
+    }
+}
